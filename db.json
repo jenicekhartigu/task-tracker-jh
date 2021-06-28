@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 46319,
+      "text": "Najit si brigadu",
+      "day": "16.12.2020",
+      "reminder": true
+    },
+    {
+      "id": 95036,
+      "text": "asd",
+      "day": "sdadsa",
+      "reminder": false
+    }
+  ]
+}
